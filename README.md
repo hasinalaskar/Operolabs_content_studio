@@ -10,6 +10,8 @@ Instead of moving between several disconnected tools, OperoLabs organizes the co
 
 The goal is to make AI-powered content production more organized, repeatable, and easier to manage.
 
+![OperoLabs Dashboard](./Screenshot%20dashboard.png)
+
 ---
 
 ## ✨ What is OperoLabs?
@@ -116,6 +118,8 @@ The image-generation engine is kept separate from the main Streamlit interface s
 
 Turn the visual plan into a complete set of images ready for the next stage of content production.
 
+![OperoLabs imagegeneration](./Screenshot%20imagegeneration.png)
+
 ## 🌐 Chrome Keep Alive Extension
 
 OperoLabs uses a lightweight Chrome Keep Alive extension as part of the browser-based image-generation workflow.
@@ -152,6 +156,8 @@ Project
 
 ```
 This keeps different content projects separated instead of mixing all generated files together.
+
+![OperoLabs Peoject](./Screenshot%20peoject.png)
 
 ### 🎯 Goal
 
